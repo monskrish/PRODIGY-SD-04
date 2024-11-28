@@ -39,7 +39,7 @@ sudoku-solver-gui/
 │
 ├── sudoku_solver_gui.py   # Main Python script for the application
 ├── README.md              # Project documentation
-└── screenshots/           # Folder for storing screenshots (optional)
+
 ```
 
 ## How to Use
