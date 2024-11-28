@@ -19,7 +19,7 @@ The program validates inputs, solves the puzzle using a backtracking algorithm, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver-gui.git
+   git clone https://github.com/your-username/sudoku-solver.git
    cd sudoku-solver-gui
    ```
 
@@ -37,7 +37,7 @@ This project requires Python 3.x. No additional libraries are needed beyond the 
 ```
 sudoku-solver-gui/
 │
-├── sudoku_solver_gui.py   # Main Python script for the application
+├── sudoku_solver.py   # Main Python script for the application
 ├── README.md              # Project documentation
 
 ```
