@@ -1,4 +1,4 @@
-# Sudoku Solver with GUI
+# Sudoku Solver
 
 A Python-based Sudoku solver that uses a **graphical user interface (GUI)** built with **Tkinter**. This application allows users to input a Sudoku puzzle, solve it using a backtracking algorithm, and display the solution interactively.
 
@@ -27,7 +27,7 @@ The program validates inputs, solves the puzzle using a backtracking algorithm, 
 
 3. Run the script:
    ```bash
-   python sudoku_solver_gui.py
+   python sudoku_solver.py
    ```
 
 ## Requirements
@@ -45,7 +45,7 @@ sudoku-solver-gui/
 ## How to Use
 1. Launch the application by running the script:
    ```bash
-   python sudoku_solver_gui.py
+   python sudoku_solver.py
    ```
 2. Enter the Sudoku puzzle into the grid.
 3. Click **"Solve"** to display the solution.
